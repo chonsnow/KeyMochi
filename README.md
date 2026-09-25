@@ -12,9 +12,9 @@ Magicforce MF34 전용 키매핑 GUI 보조 도구 (Karabiner-Elements 연동)
 ## Example Setup
 실제 워크플로우 환경에 맞춰 커스텀 키캡과 함께 구성된 Magicforce MF34 실물 셋업입니다.
 <p align="center">
-  <img src="[방금_생성된_IMG_0700_링크주소](https://github.com/user-attachments/assets/ef6b02fb-3289-4397-be3a-c4a6830224a0)" width="680" />
+  <img src="https://github.com/user-attachments/assets/ef6b02fb-3289-4397-be3a-c4a6830224a0" width="680" />
   <br><br>
-  <img src="[방금_생성된_IMG_0699_링크주소](https://github.com/user-attachments/assets/95d16d47-dc6a-4675-9794-eef3207a1fcb)" width="460" />
+  <img src="https://github.com/user-attachments/assets/95d16d47-dc6a-4675-9794-eef3207a1fcb" width="460" />
 </p>
 
 ## Installation
